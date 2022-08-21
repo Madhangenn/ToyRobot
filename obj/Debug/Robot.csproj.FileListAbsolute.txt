@@ -1,0 +1,30 @@
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\x-and\source\repos\Robot\bin\Debug\Robot.exe.config
+C:\Users\x-and\source\repos\Robot\bin\Debug\Robot.exe
+C:\Users\x-and\source\repos\Robot\bin\Debug\Robot.pdb
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.exe
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.pdb
+C:\Users\x-and\source\repos\Robot\obj\Debug\Robot.ToyRobot.resources
+F:\Dekstop\New folder\ToyRobot\bin\Debug\Robot.exe.config
+F:\Dekstop\New folder\ToyRobot\bin\Debug\Robot.exe
+F:\Dekstop\New folder\ToyRobot\bin\Debug\Robot.pdb
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.csproj.AssemblyReference.cache
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.ToyRobot.resources
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.Properties.Resources.resources
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.csproj.GenerateResource.cache
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.exe
+F:\Dekstop\New folder\ToyRobot\obj\Debug\Robot.pdb
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\bin\Debug\Robot.exe.config
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\bin\Debug\Robot.exe
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\bin\Debug\Robot.pdb
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.ToyRobot.resources
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.exe
+C:\Users\107142\Downloads\ToyRobot-master\ToyRobot-master\obj\Debug\Robot.pdb

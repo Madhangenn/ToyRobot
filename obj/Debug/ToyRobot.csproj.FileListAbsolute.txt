@@ -1,0 +1,7 @@
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\ToyRobot.csproj.AssemblyReference.cache
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\Grad.ToyRobot.resources
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\ToyRobot.Properties.Resources.resources
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\ToyRobot.csproj.GenerateResource.cache
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\ToyRobot.exe
+C:\Users\x-and\source\repos\ToyRobot\obj\Debug\ToyRobot.pdb

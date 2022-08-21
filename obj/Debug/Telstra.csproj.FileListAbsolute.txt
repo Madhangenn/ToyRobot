@@ -1,0 +1,10 @@
+C:\Users\x-and\source\repos\Grad\obj\Debug\Telstra.csproj.AssemblyReference.cache
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.ToyRobot.resources
+C:\Users\x-and\source\repos\Grad\obj\Debug\Telstra.csproj.GenerateResource.cache
+C:\Users\x-and\source\repos\Grad\obj\Debug\Telstra.csproj.CoreCompileInputs.cache
+C:\Users\x-and\source\repos\Grad\bin\Debug\ToyRobot.exe.config
+C:\Users\x-and\source\repos\Grad\bin\Debug\ToyRobot.exe
+C:\Users\x-and\source\repos\Grad\bin\Debug\ToyRobot.pdb
+C:\Users\x-and\source\repos\Grad\obj\Debug\ToyRobot.Properties.Resources.resources
+C:\Users\x-and\source\repos\Grad\obj\Debug\ToyRobot.exe
+C:\Users\x-and\source\repos\Grad\obj\Debug\ToyRobot.pdb

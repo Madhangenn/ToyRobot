@@ -1,0 +1,10 @@
+C:\Users\x-and\source\repos\Grad\bin\Debug\Grad.exe.config
+C:\Users\x-and\source\repos\Grad\bin\Debug\Grad.exe
+C:\Users\x-and\source\repos\Grad\bin\Debug\Grad.pdb
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.Properties.Resources.resources
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.csproj.GenerateResource.cache
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.csproj.CoreCompileInputs.cache
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.exe
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.pdb
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.ToyRobot.resources
+C:\Users\x-and\source\repos\Grad\obj\Debug\Grad.csproj.AssemblyReference.cache
